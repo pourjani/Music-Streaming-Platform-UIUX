@@ -2,7 +2,8 @@
 
 A comprehensive UI/UX redesign concept of a music streaming web player, showcasing the transition from initial low-fidelity wireframes to polished, modern high-fidelity mockups.
 
-<!-- Professional Badges -->
+
+<!-- Professional Badges (LinedIn, Instagram, Figma Link) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mahrou-pourjani-a38998352">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -10,8 +11,11 @@ A comprehensive UI/UX redesign concept of a music streaming web player, showcasi
   <a href="https://instagram.com/mahrou.p">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <a href="https://www.figma.com/proto/6sXwaB1CwEmu2eZBgqyJz3/web-music-app?node-id=83-1181&t=LxlbK7Spg7zE7nGC-1">
+    <img src="https://img.shields.io/badge/Try_Live_Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Live Prototype">
+  </a>
 </p>
+
 
 <!-- Hero Mockup Showcase -->
 <p align="center">
