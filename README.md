@@ -83,21 +83,4 @@ To ensure a solid user experience, the project started with structured wireframe
 ## 🛠️ Tools Used
 - **Figma** — Wireframing, UI Design, and Prototyping
 
----
 
-## 📁 Repository Structure
-```bash
-Music-Streaming-Platform-UIUX/
-├── assets/
-│   ├── Homepage.png
-│   ├── Homepage_ Low fi.png
-│   ├── Landing Page.png
-│   ├── Landing Page_ Low fi.png
-│   ├── Song detail page.png
-│   ├── Song detail page_ Low fi.png
-│   ├── Spotify_1.png
-│   ├── Spotify_2.png
-│   ├── Spotify_3.png
-│   ├── login page.png
-│   └── login page_ Low fi.png
-└── README.md
