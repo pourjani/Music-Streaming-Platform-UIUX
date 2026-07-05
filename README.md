@@ -79,3 +79,19 @@ To ensure a solid user experience, the project started with structured wireframe
 - **Figma** — Wireframing, UI Design, and Prototyping
 
 
+---
+
+### 📬 Let's Connect!
+I'm always open to discussing new projects, design challenges, or creative collaborations.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahrou-pourjani-a38998352" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/mahrou.p" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+---
+*If you liked this case study, feel free to give this repository a ⭐!*
