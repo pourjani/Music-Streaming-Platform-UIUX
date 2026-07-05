@@ -66,9 +66,11 @@ To ensure a solid user experience, the project started with structured wireframe
 ---
 
 ### 4. Song Detail Page
-| Low-Fidelity Wireframe | High-Fidelity Design |
-| :---: | :---: |
-| <img src="assets/Song%20detail%20page_%20Low%20fi.png" width="450"> | <img src="assets/Song%20detail%20page.png" width="450"> |
+*The focused view showing current track metadata, lyrics, and volume control.*
+
+<p align="center">
+  <img src="assets/Song%20detail%20page.png" alt="Song Detail High-Fidelity" width="700">
+</p>
 
 ---
 
