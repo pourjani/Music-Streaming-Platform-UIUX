@@ -34,55 +34,44 @@ This project focuses on designing a dark-themed, highly intuitive user interface
 
 ---
 
+---
+
 ## 🎨 Design Process (Low-Fi vs. High-Fi)
 
 To ensure a solid user experience, the project started with structured wireframes (Low-Fi) before moving to the visual design phase (High-Fi).
 
 ### 1. Landing Page
-*The first touchpoint for new users, highlighting the platform's value proposition.*
-
 | Low-Fidelity Wireframe | High-Fidelity Design |
 | :---: | :---: |
-| ![Landing Low-fi](assets/Landing%20Page_%20Low%20fi.png) | ![Landing High-fi](assets/Landing%20Page.png) |
+| <img src="assets/Landing%20Page_%20Low%20fi.png" width="450"> | <img src="assets/Landing%20Page.png" width="450"> |
 
-#### 💻 Device Preview:
-<p align="center">
-  <img src="assets/Spotify_2.png" alt="Landing Page Mockup" width="80%">
-</p>
+<p align="center"><img src="assets/Spotify_2.png" alt="Landing Page Mockup" width="80%"></p>
 
 ---
 
 ### 2. Login Page
-*A minimalist and secure login experience with multiple social authentication options.*
-
 | Low-Fidelity Wireframe | High-Fidelity Design |
 | :---: | :---: |
-| ![Login Low-fi](assets/login%20page_%20Low%20fi.png) | ![Login High-fi](assets/login%20page.png) |
+| <img src="assets/login%20page_%20Low%20fi.png" width="450"> | <img src="assets/login%20page.png" width="450"> |
 
-#### 💻 Device Preview:
-<p align="center">
-  <img src="assets/Spotify_3.png" alt="Login Page Mockup" width="80%">
-</p>
+<p align="center"><img src="assets/Spotify_3.png" alt="Login Page Mockup" width="80%"></p>
 
 ---
 
 ### 3. User Homepage / Web Player
-*The core dashboard where users interact with music, playlists, and recommendations.*
-
 | Low-Fidelity Wireframe | High-Fidelity Design |
 | :---: | :---: |
-| ![Homepage Low-fi](assets/Homepage_%20Low%20fi.png) | ![Homepage High-fi](assets/Homepage.png) |
+| <img src="assets/Homepage_%20Low%20fi.png" width="450"> | <img src="assets/Homepage.png" width="450"> |
 
 ---
 
 ### 4. Song Detail Page
-*The focused view showing current track metadata, lyrics, and volume control.*
-
 | Low-Fidelity Wireframe | High-Fidelity Design |
 | :---: | :---: |
-| ![Song Detail Low-fi](assets/Song%20detail%20page_%20Low%20fi.png) | ![Song Detail High-fi](assets/Song%20detail%20page.png) |
+| <img src="assets/Song%20detail%20page_%20Low%20fi.png" width="450"> | <img src="assets/Song%20detail%20page.png" width="450"> |
 
 ---
+
 
 ## 🛠️ Tools Used
 - **Figma** — Wireframing, UI Design, and Prototyping
